@@ -1,0 +1,159 @@
+brasil
+argentina
+canadá
+méxico
+chile
+uruguai
+paraguai
+colômbia
+peru
+venezuela
+bolívia
+equador
+frança
+alemanha
+italia
+espanha
+portugal
+inglaterra
+china
+japão
+índia
+rússia
+austrália
+egito
+grécia
+suiça
+suecia
+noruega
+dinamarca
+finlândia
+bélgica
+holanda
+polônia
+ucrânia
+romênia
+turquia
+sérvia
+croácia
+irlanda
+escócia
+israel
+iraque
+irã
+afeganistão
+paquistão
+indonésia
+tailândia
+vietnam
+filipinas
+coreia
+malásia
+cuba
+haiti
+panamá
+costa rica
+el salvador
+guatemala
+honduras
+nicaragua
+jamaica
+trinidad
+canadá
+estados unidos
+áfrica do sul
+marrocos
+argélia
+tunísia
+senegal
+nigéria
+angola
+moçambique
+cabo verde
+guiné
+zâmbia
+zimbábue
+quênia
+tanzânia
+uganda
+ghana
+botsuana
+namíbia
+nova zelândia
+coréia do sul
+coreia do norte
+islandia
+armênia
+geórgia
+catar
+emirados árabes
+arábia saudita
+oman
+iémen
+jordânia
+síria
+líbano
+palestina
+luxemburgo
+mônaco
+andorra
+liechtenstein
+vaticano
+san marino
+eslovaquia
+eslovenia
+hungria
+bielorrússia
+lituânia
+letônia
+estônia
+azerbaijão
+cazaquistão
+uzbequistão
+turcomenistão
+quirguistão
+tadjiquistão
+nepal
+butão
+bangladesh
+sri lanka
+maldivas
+seychelles
+madagascar
+ilhas maurício
+ilhas comores
+ilhas salomão
+ilhas fiji
+papua-nova guiné
+timor-leste
+brunei
+laos
+camarões
+congo
+gabão
+benin
+togo
+chade
+sudão
+sudão do sul
+burkina faso
+mali
+níger
+libéria
+serra leoa
+gâmbia
+guiné-bissau
+república dominicana
+porto rico
+bahamas
+barbados
+antígua
+dominica
+são cristóvão
+santa lúcia
+são vicente
+granada
+belize
+suriname
+guiana
+groenlândia
